@@ -52,4 +52,4 @@ Comparison of current period vs last year,YoY growth and decline analysis,Perfor
 
 8 Scrrenshort/demo
 Show what the dashboard look like.
-Example:[Alter text]()
+Example:[Alter text](https://github.com/pateltrupalll/mobile_sale_dashboard/blob/main/snapshot%20of%20the%20dashboard.png)()
