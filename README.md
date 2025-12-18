@@ -51,5 +51,8 @@ Current month sales, revenue, and orders,Daily sales trend within the month,Real
 Comparison of current period vs last year,YoY growth and decline analysis,Performance benchmarking🛠 Tools & Technologies Used,Microsoft Power BI Desktop,Power Query Editor,DAX (Data Analysis Expressions),Custom Calendar Table,Time Intelligence Functions,Data Modeling & Visualization Best Practices
 
 8 Scrrenshort/demo
+
 Show what the dashboard look like.
-Example:![Alter text](https://github.com/pateltrupalll/mobile_sale_dashboard/blob/main/snapshot%20of%20the%20dashboard.png)(https://github.com/pateltrupalll/mobile_sale_dashboard/blob/main/snapshot%20of%20the%20MTD%20report.png)(https://github.com/pateltrupalll/mobile_sale_dashboard/blob/main/snapshot%20of%20the%20same%20period%20last%20year.png)
+
+Example:![Alter text](https://github.com/pateltrupalll/mobile_sale_dashboard/blob/main/snapshot%20of%20the%20dashboard.png)
+![dashbord mtd](https://github.com/pateltrupalll/mobile_sale_dashboard/blob/main/snapshot%20of%20the%20MTD%20report.png)[](https://github.com/pateltrupalll/mobile_sale_dashboard/blob/main/snapshot%20of%20the%20same%20period%20last%20year.png)
